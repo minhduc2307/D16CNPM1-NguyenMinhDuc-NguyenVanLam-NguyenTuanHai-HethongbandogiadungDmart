@@ -1,0 +1,4 @@
+D:\Quản trị dự án CNTT\Code\QuanLyCuaHangDmart\QuanLyCuaHangDmart\QuanLyCuaHangPhuKienCauLong\bin\Debug\QuanLyCuaHangPhuKienCauLong.exe.config
+D:\Quản trị dự án CNTT\Code\QuanLyCuaHangDmart\QuanLyCuaHangDmart\QuanLyCuaHangPhuKienCauLong\obj\Debug\QuanLyCuaHangDmart.csproj.ResolveComReference.cache
+D:\Quản trị dự án CNTT\Code\QuanLyCuaHangDmart\QuanLyCuaHangDmart\QuanLyCuaHangPhuKienCauLong\obj\Debug\QuanLyCuaHangPhuKienCauLong.exe
+D:\Quản trị dự án CNTT\Code\QuanLyCuaHangDmart\QuanLyCuaHangDmart\QuanLyCuaHangPhuKienCauLong\obj\Debug\QuanLyCuaHangPhuKienCauLong.pdb
